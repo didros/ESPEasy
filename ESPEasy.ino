@@ -116,7 +116,7 @@
 // Use the "System Info" device to read the VCC value
 #define FEATURE_ADC_VCC                  false
 // Support for LIFX light bulb (experimental) : LAN protocol, SendToLIFX command in rules
-#define FEATURE_LIFX                     false
+#define FEATURE_LIFX                     true
 
 // ********************************************************************************
 //   DO NOT CHANGE ANYTHING BELOW THIS LINE
